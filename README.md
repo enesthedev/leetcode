@@ -3,3 +3,4 @@ This repository contains LeetCode problems and solutions that I have solved. You
 
 - Two Sum ([source](problems/1-two-sum.md))
 - Count Number of Maximum Bitwise OR Subsets([source](problems/2044-count-number-of-maximum-bitwise-or-subsets.md))
+- Counter ([source](problems/2620-counter.md))
